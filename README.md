@@ -1,1 +1,1 @@
-![](./layout/foodfy.gif)
+![](.public/layout/foodfy.gif)
